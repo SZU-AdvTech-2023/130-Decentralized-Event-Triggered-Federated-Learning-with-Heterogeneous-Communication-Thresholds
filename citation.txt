@@ -1,0 +1,5 @@
+@article{REPO130,
+    author = "Zehtabi, Shahryar and Hosseinalipour, Seyyedali and Brinton, Christopher G.",
+    title = "{Decentralized Event-Triggered Federated Learning with Heterogeneous Communication Thresholds}",
+    year = "2022"
+}
